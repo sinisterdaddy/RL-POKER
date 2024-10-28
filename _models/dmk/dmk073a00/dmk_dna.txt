@@ -1,0 +1,35 @@
+ *** ParaSave POINT saved: 231208_1611 ***
+age                  : 68
+assert_saved         : True
+build_villain_stats  : False
+enable_pex           : True
+family               : a
+fwd_stats_step       : 9981
+gxable               : True
+motorch_point        : {'device': 0, 'family': 'a', 'name': 'dmk073a00', 'save_topdir': '_models/dmk', 'table_size': 3, 'table_moves': [['CCK'], ['FLD'], ['CLL'], ['BR1', 2.4, 0.5], ['BR2', 3.8, 1.4]]}
+motorch_type         : <class 'podecide.dmk_motorch.DMK_MOTorch_PG'>
+n_player_stats       : 10
+n_players            : 100
+name                 : dmk073a00
+parents              : ['dmk064a01', 'dmk049a01']
+pex_max              : 0.018193607229358574
+pid_pex_fraction     : 0.9279275390463251
+prob_max             : 0.22619179786037924
+prob_zero            : 0.2654901857624999
+psdd                 : {'upd_trigger': [20000, 50000], 'reward_share': (None, 3, 5, 6), 'enable_pex': (True, False), 'pex_max': [0.01, 0.05], 'prob_zero': [0.0, 0.45], 'prob_max': [0.0, 0.45], 'step_min': [100, 10000], 'step_max': [10000, 100000], 'pid_pex_fraction': [0.5, 1.0]}
+publishFWD           : True
+publishUPD           : True
+publish_pex          : True
+publish_player_stats : True
+reward_share         : 5
+save_fn_pfx          : dmk_dna
+save_topdir          : _models/dmk
+step_max             : 98388
+step_min             : 4061
+table_cash_start     : 500
+table_moves          : [['CCK'], ['FLD'], ['CLL'], ['BR1', 2.4, 0.5], ['BR2', 3.8, 1.4]]
+table_size           : 3
+trainable            : True
+upd_step             : 12218
+upd_trigger          : 25780
+won_iv               : 1000
