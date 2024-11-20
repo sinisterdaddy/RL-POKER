@@ -1,7 +1,0 @@
-# Project Context
-
-
-
-## Bug Reports
-- Fixed issue with form validation.
-- Resolved CORS errors on login.
